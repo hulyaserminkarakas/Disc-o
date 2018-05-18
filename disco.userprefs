@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\WheelColliderScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\ThreeColoredWheel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WheelColliderScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BallSpawner.cs" Line="10" Column="19" />
+      <File FileName="Assets\Scripts\BallMovement.cs" Line="20" Column="51" />
+      <File FileName="Assets\Scripts\SpawnInfo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelText.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AudioDelay.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

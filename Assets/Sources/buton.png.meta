@@ -1,0 +1,88 @@
+fileFormatVersion: 2
+guid: f5cdc4a44d374224dbb0f431e8c3e721
+timeCreated: 1464354431
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: buton_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.32522795, y: 0.70562136}
+  spriteBorder: {x: 502, y: 642, z: 1171, w: 191}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: buton_0
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 642
+        width: 247
+        height: 247
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 247, y: 161}
+        - {x: 228, y: 202}
+        - {x: 190, y: 237}
+        - {x: 156, y: 247}
+        - {x: 90, y: 247}
+        - {x: 58, y: 236}
+        - {x: 46, y: 226}
+        - {x: 19, y: 197}
+        - {x: 5, y: 174}
+        - {x: 0, y: 155}
+        - {x: 0, y: 91}
+        - {x: 13, y: 54}
+        - {x: 41, y: 25}
+        - {x: 59, y: 12}
+        - {x: 90, y: 0}
+        - {x: 162, y: 0}
+        - {x: 202, y: 19}
+        - {x: 235, y: 58}
+        - {x: 247, y: 83}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
